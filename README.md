@@ -1,5 +1,5 @@
 # Ruboty::Lastfm
-An ruboty handler to see the playing track from Last.fm.
+An ruboty handler to see the playing track from [Last.fm](http://last.fm/).
 
 ## Usage
 ```ruby
